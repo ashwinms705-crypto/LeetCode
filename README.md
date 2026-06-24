@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0645-set-mismatch) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
@@ -68,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
