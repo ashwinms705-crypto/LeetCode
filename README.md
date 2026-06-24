@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0645-set-mismatch) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
