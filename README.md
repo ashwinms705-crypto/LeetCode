@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Linked List
 |  |
