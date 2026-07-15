@@ -14,6 +14,7 @@ class Solution {
                 gcd=Math.max(gcd,i);
             }
         }
-        return gcd;
+        //return gcd;
+        return n;
     }
 }
