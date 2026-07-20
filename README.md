@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1051-height-checker) |
+| [1260-shift-2d-grid](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -259,5 +261,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
