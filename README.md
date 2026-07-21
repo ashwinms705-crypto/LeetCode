@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3516-find-closest-person](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
