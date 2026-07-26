@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1251-average-selling-price) |
+| [1341-movie-rating](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1407-top-travellers) |
