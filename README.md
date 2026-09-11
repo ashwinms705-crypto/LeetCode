@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0075-sort-colors) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
