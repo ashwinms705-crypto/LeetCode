@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0506-relative-ranks) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0179-largest-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0389-find-the-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
