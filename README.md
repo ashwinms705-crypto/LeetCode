@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
