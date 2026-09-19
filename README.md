@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0645-set-mismatch) |
+| [0819-most-common-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0819-most-common-word) |
 | [1051-height-checker](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0645-set-mismatch) |
+| [0819-most-common-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0819-most-common-word) |
 | [1331-rank-transform-of-an-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0819-most-common-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0819-most-common-word) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0389-find-the-difference) |
+| [0819-most-common-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0819-most-common-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
