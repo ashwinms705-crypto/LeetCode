@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0389-find-the-difference) |
 | [0819-most-common-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0819-most-common-word) |
+| [0856-score-of-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
