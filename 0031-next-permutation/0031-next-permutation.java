@@ -1,8 +1,7 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int ind=-1;
         int n=nums.length;
-        if(n==1) return;
+        int ind=-1;
         for(int i=n-2;i>=0;i--){
             if(nums[i]<nums[i+1]){
                 ind=i;
@@ -10,10 +9,17 @@ class Solution {
             }
         }
         if(ind==-1){
-            rev(nums,0,n-1);
-            return;
+            int a=0;
+        int b=n-1;
+        while(a<b){
+            int temp=nums[a];
+            nums[a]=nums[b];
+            nums[b]=temp;
+            a++;
+            b--;
         }
-
+        return;
+        }
         for(int i=n-1;i>=0;i--){
             if(nums[i]>nums[ind]){
                 int temp=nums[i];
@@ -22,15 +28,14 @@ class Solution {
                 break;
             }
         }
-        rev(nums,ind+1,n-1);
-    }
-    public void rev(int[] nums,int start,int end){
-        while(start<end){
-            int temp=nums[start];
-            nums[start]=nums[end];
-            nums[end]=temp;
-            start++;
-            end--;
+        int s=ind+1;
+        int e=n-1;
+        while(s<e){
+            int temp=nums[s];
+            nums[s]=nums[e];
+            nums[e]=temp;
+            s++;
+            e--;
         }
     }
 }
