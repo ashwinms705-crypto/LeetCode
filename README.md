@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0443-string-compression) |
 | [0819-most-common-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
