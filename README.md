@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0367-valid-perfect-square) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
