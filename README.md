@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0056-merge-intervals) |
@@ -479,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
