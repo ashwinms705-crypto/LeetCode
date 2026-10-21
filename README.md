@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
