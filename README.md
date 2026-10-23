@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0819-most-common-word) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1051-height-checker) |
 ## Greedy
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0561-array-partition) |
 | [1386-cinema-seat-allocation](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
