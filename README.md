@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3516-find-closest-person](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
