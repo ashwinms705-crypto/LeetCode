@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -503,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0047-permutations-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
