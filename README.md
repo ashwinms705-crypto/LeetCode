@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0645-set-mismatch) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
