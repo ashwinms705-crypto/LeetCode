@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0819-most-common-word) |
 | [1046-last-stone-weight](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1051-height-checker) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1927-sum-game](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2235-add-two-integers) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Bracket Sequences
 |  |
 | ------- |
