@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1927-sum-game](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1927-sum-game) |
