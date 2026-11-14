@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/ashwinms705-crypto/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/ashwinms705-crypto/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ashwinms705-crypto/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ashwinms705-crypto/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
 | ------- |
