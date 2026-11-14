@@ -7,7 +7,8 @@ class Solution {
             for(int j=i;j<n;j++){
                 sum+=nums.get(j);
                 int len=j-i+1;
-                if(len>=l && len<=r && sum>0){
+                if(len>r) break;
+                if(len>=l && sum>0){
                     mini=Math.min(mini,sum);
                 }
             }
